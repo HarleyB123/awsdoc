@@ -10,7 +10,7 @@
 
 <a name="general-info"></a>
 ## General info
-Whenever I find myself struggling in the world of AWS services, I always go to the same [page](https://docs.aws.amazon.com/) and selecting the service in question. Since most of the time, I am either writing terraform or python in the terminal when I need this page, I thought why not create a pip package that will open the docs in my default browser from the command-line. Thus, a simple project called awsdocs was born.
+Whenever I find myself struggling in the world of AWS services, I always go to the same [page](https://docs.aws.amazon.com/) and select the service in question. Since most of the time I am either writing terraform or python in the terminal when I need this page, I thought why not create a pip package that will open the docs in my default browser from the command-line. Thus, a simple project called awsdocs was born.
 
 
 <a name="technologies"></a>
