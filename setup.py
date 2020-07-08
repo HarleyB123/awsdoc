@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="awsdocs",
-    version="0.0.7",
+    version="0.0.8",
     author="Harley Bates",
     author_email="HarleyBatesOfficial@yahoo.co.uk",
     description="Opens AWS Developer guide for a given AWS service",
